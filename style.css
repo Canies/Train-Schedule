@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+#train-table th, td {
+    display: inline-block;
+    width: 20%;
+}
+
+.jumbotron {
+    color: black;
+    background-image: url(/Users/mac/Train-Schedule/assets/images/banner.jpg);
+    color: orange;
+    font-family: 'Press Start 2P', cursive;
+}
